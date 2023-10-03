@@ -16,9 +16,9 @@
 package server
 
 import (
-	"cos518project/chubby/config"
-	"cos518project/chubby/store"
-	"cos518project/chubby/api"
+	"chubby/chubby/config"
+	"chubby/chubby/store"
+	"chubby/chubby/api"
 	"fmt"
 	"log"
 	"net"

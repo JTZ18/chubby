@@ -1,6 +1,6 @@
-FROM golang:1.12
+FROM golang:1.21.1
 
-WORKDIR $GOPATH/src/cos518project/
+WORKDIR $GOPATH/src/chubby/
 COPY . .
 
 # Dependencies

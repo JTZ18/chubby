@@ -4,7 +4,7 @@
 package server
 
 import (
-	"cos518project/chubby/api"
+	"chubby/chubby/api"
 	"errors"
 	"fmt"
 	"log"

@@ -1,7 +1,7 @@
 package client
 
 import (
-	"cos518project/chubby/api"
+	"chubby/chubby/api"
 	"errors"
 	"fmt"
 	"io"

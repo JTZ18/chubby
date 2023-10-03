@@ -3,8 +3,8 @@
 package main
 
 import (
-	"cos518project/chubby/api"
-	"cos518project/chubby/client"
+	"chubby/chubby/api"
+	"chubby/chubby/client"
 	"flag"
 	"log"
 	"os"

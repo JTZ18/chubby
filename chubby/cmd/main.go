@@ -14,8 +14,8 @@
 package main
 
 import (
-	"cos518project/chubby/config"
-	"cos518project/chubby/server"
+	"chubby/chubby/config"
+	"chubby/chubby/server"
 	"flag"
 	"os"
 	"os/signal"
